@@ -1,6 +1,6 @@
 {
-  "homepage": "http://ltanedo.github.io/bubsnbubsy",
-  "name": "code-sandbox-examples",
+  "homepage": "http://bubsnbubsy.github.io/",
+  "name": "Bubsnbubsy",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
