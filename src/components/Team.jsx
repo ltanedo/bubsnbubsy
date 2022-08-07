@@ -10,12 +10,12 @@ export default function(props) {
     return (
       <div class="container my-3 py-5 text-center"> 
 
-    <div className='container my-3 py-5 text-center'>
-        <h1>Our Team</h1>
-        <p>Our team works hard to come up with the cutest couple cartoons around!</p>
-      </div>
+       <div className='container my-3 py-5 text-center'>
+              <h1>Our Team</h1>
+              <p>Our team works hard to come up with the cutest couple cartoons around!</p>
+       </div>
 
-        <div class="row mb-5">
+        {/* <div class="row mb-5"> */}
       
             <div class="row" id='team'>
             <Person image={Carlo}
@@ -36,7 +36,7 @@ export default function(props) {
                     description={"While he may not be there all the time, his support really keeps the team going!"}/>
             
 
-        </div>
+        {/* </div> */}
         </div>
         </div>
     )
