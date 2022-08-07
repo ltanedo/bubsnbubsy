@@ -12,7 +12,8 @@ Check out this open-source tech stack built on react-bootstrap and the gh-pages 
   | Framework     | React         |
   | Hosting       | Github Pages  |
   | Domain        | Google Domains|
-  
+  | Development   | Gitpod Cloud  |
+
 &nbsp;
  
 <h1 align="center">Deployment Gude</h1>
