@@ -1,5 +1,5 @@
 # The Bubsnbubsy Tech Corner!
-Check out our open-source tech stack!   Feel free to clone the repo and launch your own social site!
+Check out our open-source tech stack built on react-bootstrap and the gh-pages cli!   Feel free to clone the repo and launch your own social site!
 
 &nbsp;
 
