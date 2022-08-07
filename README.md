@@ -1,5 +1,8 @@
-# The Bubsnbubsy Tech Corner!
-Check out our open-source tech stack built on react-bootstrap and the gh-pages cli.   Feel free to clone the repo and launch your own social site!
+# Host your social site on gh-pages!
+> Example used is for the couple cartoonist group Bubsnbubsy. Check em out on [bubsnbubsy.art](bubsnbubsy.art)
+
+
+Check out this open-source tech stack built on react-bootstrap and the gh-pages cli.    Feel free to clone the repo and launch your own social site!
 
 &nbsp;
 
@@ -19,10 +22,10 @@ Check out our open-source tech stack built on react-bootstrap and the gh-pages c
 
 ###   1.  Change the "homepage" key in "package.json" 
 ```
-http://bubsnbubsy.github.io/           <- If repo name included "USERNAME.github.io"
+http://USERNAME.github.io/           <- If repo name included "USERNAME.github.io"
 ```
 ```
-http://bubsnbubsy.github.io/repo_name  <- If repo name doesn't include "USERNAME.github.io"
+http://USERNAME.github.io/repo_name  <- If repo name doesn't include "USERNAME.github.io"
 ```
 
 ### 2. Create repo on github, or use gh cli
