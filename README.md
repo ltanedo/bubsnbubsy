@@ -9,6 +9,8 @@ Check out our open-source tech stack built on react-bootstrap and the gh-pages c
   | Framework     | React         |
   | Hosting       | Github Pages  |
   | Domain        | Google Domains|
+  | Development   | Gitpod Cloud  |
+
   
 &nbsp;
  
