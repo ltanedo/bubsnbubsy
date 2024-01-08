@@ -11,6 +11,7 @@ import Footer from './components/Footer';
 
 const App = () => (
   <>
+      <Carousel/>
       <Carousel/>        
       <Social/>        
       <Advertisement/>
