@@ -1,23 +1,30 @@
-import React, { useState } from 'react';
+// import logo from './logo.svg';
+import Navigation from './component/navbar';
+import Carousel_custom from './component/carousel';
+import Header from './component/header';
+import Photo from './component/photo';
 import './App.css';
-
-import Social from './components/Social';
-import Carousel from './components/Carousel'
-import Advertisement from './components/Advertisement';
-import Team from './components/Team';
-import Partners from './components/Partners';
-import Footer from './components/Footer';
+import Team from './component/Team';
+import About from './component/about';
 
 
-const App = () => (
-  <>
-      <Carousel/>        
-      <Social/>        
-      <Advertisement/>
+// import { Container, Row, Col } from 'react-bootstrap';
+
+
+function App() {
+
+  return (
+    <div className="App">
+      <Navigation/>
+      <Header/>
+      <Photo/> 
       <Team/>
-      <Partners/>
-      <Footer/>
-  </>
-);
+      <About/>
 
+
+
+  </div>
+  
+  );
+}
 export default App;
