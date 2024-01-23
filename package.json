@@ -1,14 +1,14 @@
 {
-  "homepage": "bubsnbubsy.github.io",
+  "homepage": "https://bubsnbubsy.github.io",
   "name": "Bubsnbubsy",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
     "bootstrap": "^4.6.0",
-    "react": "^17.0.2",
+    "react": "^18.2.0",
     "react-bootstrap": "^1.5.2",
-    "react-dom": "^17.0.2",
-    "react-scripts": "4.0.3"
+    "react-dom": "^18.2.0",
+    "react-scripts": "^5.0.1"
   },
   "devDependencies": {
     "gh-pages": "^4.0.0"
